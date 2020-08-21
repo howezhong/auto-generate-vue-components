@@ -1,0 +1,26 @@
+{
+  "name": "automatically-generate-vue-components",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Automatically generate Vue components",
+  "main": "index.js",
+  "scripts": {
+    "new": "node ./scripts/generate"
+  },
+  "keywords": [
+    "vue",
+    "components",
+    "generate",
+    "automatically",
+    "script"
+  ],
+  "author": {
+    "name": "zhonghw",
+    "email": "214206783@qq.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3"
+  }
+}
